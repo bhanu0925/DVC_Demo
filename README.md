@@ -9,6 +9,6 @@ DVC Basic setup demo demonstrates
 
 1.	Git initiatize git init
 2.	Dvc initialize it creates few more files like dvcignore, config,temp folder – dvc init
-3.	Add data to the dvc to track it.
-    dvc add data/hour.csv
+3.	Add data to the dvc to track it. \
+    dvc add data/hour.csv \
     git add 'data\.gitignore' 'data\hour.csv.dvc'
